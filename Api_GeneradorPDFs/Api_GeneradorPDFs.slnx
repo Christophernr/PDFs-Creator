@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../Application/Application.csproj" Id="9cdef81c-8e8a-4bbc-8967-6f713f42a543" />
+  <Project Path="../Infrastructure/Infrastructure.csproj" Id="a916e1cf-e115-4ea5-98b6-3610fbef4de9" />
   <Project Path="Api_GeneradorPDFs.csproj" />
 </Solution>

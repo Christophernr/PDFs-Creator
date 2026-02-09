@@ -1,4 +1,4 @@
-using Api_GeneradorPDFs.infrastructure.Persistence.Repository.Persona;
+//using Api_GeneradorPDFs.infrastructure.Persistence.Repository.Persona;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +8,7 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-builder.Services.AddScoped<PersonaRepository>();
+//builder.Services.AddScoped<PersonaRepository>();
 
 var app = builder.Build();
 

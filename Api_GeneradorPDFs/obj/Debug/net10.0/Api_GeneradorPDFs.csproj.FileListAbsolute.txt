@@ -27,6 +27,7 @@ C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\A
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Api_GeneradorPDFs.pdb
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Azure.Core.dll
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Dapper.dll
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\System.Net.Http.Formatting.dll
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -89,6 +90,10 @@ C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\r
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\runtimes\win-x86\native\libwinpthread-1.dll
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\runtimes\win-x86\native\qpdf.dll
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Application.dll
+C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Infrastructure.dll
+C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Application.pdb
+C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\bin\Debug\net10.0\Infrastructure.pdb
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\Api_GeneradorPDFs.csproj.AssemblyReference.cache
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\rpswa.dswa.cache.json
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\Api_GeneradorPDFs.GeneratedMSBuildEditorConfig.editorconfig
@@ -97,6 +102,7 @@ C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\A
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\Api_GeneradorPDFs.csproj.CoreCompileInputs.cache
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\Api_GeneradorPDFs.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\Api_GeneradorPDFs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\Api_GeneradorPDFs.sourcelink.json
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\crisn\Programacion\Creador de pdf\Api_GeneradorPDFs\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
