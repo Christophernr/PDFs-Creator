@@ -3,21 +3,19 @@ using System.Collections.Generic;
 using System.Text;
 using Application.DTOs.Persona;
 using Application.Interfaces.Persona;
-
-namespace Application.Queries.Persona
+namespace Application.Commands.Persona
 {
-    public class GetAllPersonas
+    public class CreatePersonaCommand
     {
         private readonly IPersonaRepository _personaRepository;
-
-        public GetAllPersonas(IPersonaRepository personaRepository)
+        public CreatePersonaCommand(IPersonaRepository personaRepository)
         {
             _personaRepository = personaRepository;
         }
-
-        public async Task<IEnumerable<PersonaDTO>> Execute()
+        
+        public async Task<int> Execute(CreatePersonaDTO createPersonaDTO)
         {
-            return await _personaRepository.GetAllPersona();
+            return await _personaRepository.CreatePersona(createPersonaDTO);
         }
     }
 }

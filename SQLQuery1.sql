@@ -223,6 +223,13 @@ order by fechaSalida asc
 end
 go
 
+create procedure sp_GetAllPersona
+as
+begin
+select * from Persona
+order by nombre asc
+end
+go
 
 
 -- queries trabajador
@@ -323,7 +330,7 @@ create procedure sp_InsertPersona
 @nombre nvarchar(50),
 @apellido nvarchar (50),
 @fechaIngreso date,
-@fechaSalida date,
+@fechaSalida date null,
 @telefono nvarchar (20),
 @direccion nvarchar (50),
 @tipo bit,
@@ -381,7 +388,7 @@ end catch
 
 end
 go
-
+--drop procedure sp_InsertPersona
 create procedure sp_DeletePersona
 @idPersona int
 
