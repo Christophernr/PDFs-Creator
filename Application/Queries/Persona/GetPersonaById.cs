@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Application.DTOs.Persona;
+﻿using Application.DTOs.Persona;
 using Application.Interfaces.Persona;
 namespace Application.Queries.Persona
 {

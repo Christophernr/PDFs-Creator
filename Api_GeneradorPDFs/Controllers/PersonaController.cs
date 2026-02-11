@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Application.DTOs.Persona;
 //using Application.Queries.Persona;
 using Application.Services;
-using Application.DTOs.Persona;
+using Microsoft.AspNetCore.Mvc;
 namespace Api_GeneradorPDFs.Controllers
 
 {

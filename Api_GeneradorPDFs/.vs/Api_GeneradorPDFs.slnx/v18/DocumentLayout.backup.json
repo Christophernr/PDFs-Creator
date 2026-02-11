@@ -3,20 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\interfaces\\iconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\api_generadorpdfs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\interfaces\\persona\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\api_generadorpdfs\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\api_generadorpdfs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A916E1CF-E115-4EA5-98B6-3610FBEF4DE9}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\infrastructure\\persistence\\repositories\\persona\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\api_generadorpdfs\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\interfaces\\persona\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E1CF-E115-4EA5-98B6-3610FBEF4DE9}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\infrastructure\\persistence\\connection\\sqlconnectionfactorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\interfaces\\iconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\commands\\persona\\eliminarpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -41,13 +52,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CDEF81C-8E8A-4BBC-8967-6F713F42A543}|..\\Application\\Application.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\application\\queries\\persona\\getpersonabyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A916E1CF-E115-4EA5-98B6-3610FBEF4DE9}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\infrastructure\\persistence\\connection\\sqlconnectionfactorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|c:\\users\\crisn\\programacion\\creador de pdf\\api_generadorpdfs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FA9B238-19A2-5B43-AF06-5558E847F908}|Api_GeneradorPDFs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,72 +65,110 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonaServices.cs",
-              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Services\\PersonaServices.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Services\\PersonaServices.cs",
-              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Services\\PersonaServices.cs",
-              "RelativeToolTip": "..\\Application\\Services\\PersonaServices.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIA/wCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T19:32:30.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "Controllers\\PersonaController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwFkAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:03:47.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Infrastructure\\Persistence\\Repositories\\Persona\\PersonaRepository.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Persistence\\Repositories\\Persona\\PersonaRepository.cs",
               "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Infrastructure\\Persistence\\Repositories\\Persona\\PersonaRepository.cs",
               "RelativeToolTip": "..\\Infrastructure\\Persistence\\Repositories\\Persona\\PersonaRepository.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAcwJwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T15:02:28.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Interfaces\\IConnectionFactory.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Interfaces\\IConnectionFactory.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\IConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:03:37.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlConnectionFactorycs.cs",
+              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
+              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:59:34.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaServices.cs",
+              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Services\\PersonaServices.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\PersonaServices.cs",
+              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Services\\PersonaServices.cs",
+              "RelativeToolTip": "..\\Application\\Services\\PersonaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:32:30.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:44:01.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:03:47.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T15:00:42.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IPersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Interfaces\\Persona\\IPersonaRepository.cs",
               "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Persona\\IPersonaRepository.cs",
               "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Interfaces\\Persona\\IPersonaRepository.cs",
               "RelativeToolTip": "..\\Application\\Interfaces\\Persona\\IPersonaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T19:10:11.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Interfaces\\IConnectionFactory.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Interfaces\\IConnectionFactory.cs",
-              "RelativeToolTip": "..\\Application\\Interfaces\\IConnectionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:03:37.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EliminarPersonaCommand.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Commands\\Persona\\EliminarPersonaCommand.cs",
               "RelativeDocumentMoniker": "..\\Application\\Commands\\Persona\\EliminarPersonaCommand.cs",
@@ -139,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "EditarPersonaCommand.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Commands\\Persona\\EditarPersonaCommand.cs",
               "RelativeDocumentMoniker": "..\\Application\\Commands\\Persona\\EditarPersonaCommand.cs",
@@ -152,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CreatePersonaCommand.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Commands\\Persona\\CreatePersonaCommand.cs",
               "RelativeDocumentMoniker": "..\\Application\\Commands\\Persona\\CreatePersonaCommand.cs",
@@ -165,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CreatePersonaDTO.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\DTOs\\Persona\\CreatePersonaDTO.cs",
               "RelativeDocumentMoniker": "..\\Application\\DTOs\\Persona\\CreatePersonaDTO.cs",
@@ -178,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "EditarPersonaDTO.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\DTOs\\Persona\\EditarPersonaDTO.cs",
               "RelativeDocumentMoniker": "..\\Application\\DTOs\\Persona\\EditarPersonaDTO.cs",
@@ -191,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "PersonaDTO.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\DTOs\\Persona\\PersonaDTO.cs",
               "RelativeDocumentMoniker": "..\\Application\\DTOs\\Persona\\PersonaDTO.cs",
@@ -204,20 +246,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "GetAllPersonas.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Queries\\Persona\\GetAllPersonas.cs",
               "RelativeDocumentMoniker": "..\\Application\\Queries\\Persona\\GetAllPersonas.cs",
               "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Queries\\Persona\\GetAllPersonas.cs",
               "RelativeToolTip": "..\\Application\\Queries\\Persona\\GetAllPersonas.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T19:11:31.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "GetPersonaById.cs",
               "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Application\\Queries\\Persona\\GetPersonaById.cs",
               "RelativeDocumentMoniker": "..\\Application\\Queries\\Persona\\GetPersonaById.cs",
@@ -227,31 +269,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T14:40:07.223Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SqlConnectionFactorycs.cs",
-              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
-              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Persistence\\Connection\\SqlConnectionFactorycs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:59:34.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\crisn\\Programacion\\Creador de pdf\\Api_GeneradorPDFs\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:44:01.324Z"
             }
           ]
         }

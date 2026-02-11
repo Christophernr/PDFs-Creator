@@ -1,10 +1,6 @@
-﻿using Application.DTOs.Persona;
-using Application.Queries;
+﻿using Application.Commands.Persona;
+using Application.DTOs.Persona;
 using Application.Queries.Persona;
-using Application.Commands.Persona;
-using System;
-using System.Collections.Generic;
-using System.Text;
 namespace Application.Services
 {
     public class PersonaServices

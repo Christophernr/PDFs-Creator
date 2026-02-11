@@ -1,21 +1,21 @@
-﻿using Microsoft.Data.SqlClient;
-using System.Data;
-using Api_GeneradorPDFs.infrastructure.Persistence.Connection;
-using Api_GeneradorPDFs.application.interfaces;
+﻿using Api_GeneradorPDFs.application.interfaces;
 using Application.DTOs.Persona;
+using Application.Interfaces.Persona;
 using Dapper;
+using Microsoft.Data.SqlClient;
+using System.Data;
 
 namespace Api_GeneradorPDFs.infrastructure.Persistence.Repository.Persona
 {
-    public class PersonaRepository
+    public class PersonaRepository : IPersonaRepository
     {
 
-        private readonly SqlConnectionFactorycs _connectionFactory;
+        private readonly IConnectionFactory _connectionFactory;
 
-        public PersonaRepository(SqlConnectionFactorycs sqlConnectionFactorycs)
+        public PersonaRepository(IConnectionFactory connectionFactory)
         {
 
-            sqlConnectionFactorycs = _connectionFactory;
+            _connectionFactory = connectionFactory;
         }
 
         public async Task<IEnumerable<PersonaDTO>> GetAllPersona()
@@ -62,7 +62,7 @@ namespace Api_GeneradorPDFs.infrastructure.Persistence.Repository.Persona
 
         }
 
-        public async Task CreatePersona(CreatePersonaDTO persona)
+        public async Task<int> CreatePersona(CreatePersonaDTO persona)
         {
             try
             {
@@ -85,6 +85,8 @@ namespace Api_GeneradorPDFs.infrastructure.Persistence.Repository.Persona
                     },
                     commandType: CommandType.StoredProcedure
                 );
+
+                return await connection.QuerySingleAsync<int>("SELECT SCOPE_IDENTITY()"); // Obtener el ID generado
             }
             catch (SqlException ex)
             {

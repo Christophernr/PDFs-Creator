@@ -1,15 +1,15 @@
-﻿using System.Data;
-using System.Data.SqlClient;
+﻿using Api_GeneradorPDFs.application.interfaces;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
+using System.Data;
 
 namespace Api_GeneradorPDFs.infrastructure.Persistence.Connection
 {
-    public class SqlConnectionFactorycs
+    public class SqlConnectionFactory : IConnectionFactory
     {
         private readonly string _connectionString;
 
-        public SqlConnectionFactorycs(IConfiguration configuration)
+        public SqlConnectionFactory(IConfiguration configuration)
         {
             _connectionString = configuration.GetConnectionString("DefaultConnection");
         }

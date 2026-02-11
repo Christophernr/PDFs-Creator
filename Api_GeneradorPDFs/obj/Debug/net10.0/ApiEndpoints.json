@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Api_GeneradorPDFs.Controllers.PersonaController",
+    "Method": "GetAllPersonas",
+    "RelativePath": "api/Persona",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_GeneradorPDFs.Controllers.PersonaController",
+    "Method": "CreatePersona",
+    "RelativePath": "api/Persona",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPersonaDTO",
+        "Type": "Application.DTOs.Persona.CreatePersonaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_GeneradorPDFs.Controllers.PersonaController",
+    "Method": "EditarPersona",
+    "RelativePath": "api/Persona",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editarPersonaDTO",
+        "Type": "Application.DTOs.Persona.EditarPersonaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_GeneradorPDFs.Controllers.PersonaController",
+    "Method": "GetPersonaById",
+    "RelativePath": "api/Persona/{idPersona}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPersona",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_GeneradorPDFs.Controllers.PersonaController",
+    "Method": "EliminarPersona",
+    "RelativePath": "api/Persona/{idPersona}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPersona",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
