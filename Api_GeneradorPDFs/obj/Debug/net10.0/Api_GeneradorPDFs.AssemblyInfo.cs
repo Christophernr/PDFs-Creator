@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api_GeneradorPDFs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9549421b030db31771a6fd8a764851bf705ca88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18f402ef65a478268fdf057e54b922270ae31af2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api_GeneradorPDFs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api_GeneradorPDFs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

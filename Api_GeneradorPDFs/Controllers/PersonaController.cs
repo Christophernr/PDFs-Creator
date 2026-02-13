@@ -73,7 +73,7 @@ namespace Api_GeneradorPDFs.Controllers
             try
             {
                 await _personaServices.EditarPersonaAsync(editarPersonaDTO);
-                return NoContent();
+                return Ok("Persona editada correctamente");
             }
             catch (Exception ex)
             {
