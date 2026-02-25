@@ -246,7 +246,7 @@ create procedure sp_BuscarTrabajador_IdPersona
 as
 begin
 select * from Trabajador where idPersona = @idPersona
-end
+end 
 go
 
 -- queries seccion
